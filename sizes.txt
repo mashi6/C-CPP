@@ -1,0 +1,6 @@
+char : 1byte
+int : 4byte
+long long int : 8byte
+float : 4byte
+double : 8byte
+pointer : 8byte
