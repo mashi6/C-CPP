@@ -1,0 +1,14 @@
+compare [GKLteQURpAjmEQsDmkxZCOsGcVYKCABlOYtRxFoCvHRctXPztYJOhtXhJZcDxKkvNZlndryCPyGbJued] with [cUykKyeTeKeSpingHOHmmTWZefPYh
+ZQtScLmAvzGlQkxIWorMndcS] : -28 <-> 28
+compare [nYURPvfaVdYGBYvtzgFqbPRBGRyJtUSTtQgnxXapsTzfNzrD] with [qCQUiPhOhimWQsnowzrLEeCSuCZzNiNEVRCzvSURqPpoXNmvkqHDSO] : -3
+<-> 3
+compare [dfmETHfMKFhKtyBxznuWcgyegRsTZgRkxHPxdtlVOvyHyIrWittGUkT] with [weW] : -19 <-> 19
+compare [xWjGFNUAaqruvJVjRNIOnHHIlFsxEYZpHcsAvq] with [QCInlgWgSTICrlPzndakqchBxSZRqvobCDELyBUOtqcbaMmhRBqEkofeUlRHeqWFqUuRuXC
+N] : 39 <-> -39
+compare [ePymynGACKgKPkjphkOIxyRIfeyFBPptEXYERcjXORytaGBY] with [SMOqDmescIaNaPEvtVMSJfhMDvzShnUTwlEjZJVpIWZ] : 18 <-> -18
+compare [uAsEatluegyvtFAGfiNvYILYoMBXAVfOaetUDwCeQGAMDBSyNvThCvykReCruT] with [omnYwJzPzEXxzMhfDAVlqCLDPhOPlWVVnFwabdxpeBFrGpl
+trDAaLmBg] : 6 <-> -6
+compare [GPzHnHgdLzSNtTOScRUwyGl] with [JpqMlkcehyEHxwmPhCIptwLeWugMHSqTTTGIXdrFszEbTzrmEcDpYLLBty] : -3 <-> 3
+compare [qfatZcXnahaObgtaQIfxFtyhodHFEvLxtuuGZckJ] with [vtKdnNQpYMtpDRTagWJPK] : -5 <-> 5
+compare [tihqsdBPbzrzaFmMIxejUGwvdpnYFFHvTQwDWqomETFEHsvCqUUUYoU] with [mPNouk] : 7 <-> -7
+compare [dqvgbOKKeOxsAgxHMlJS] with [fwZjmWGqkJWdZeMffwkRNpCnGNytJkvCIbcpjpDuNHFhtZZo] : -2 <-> 2
