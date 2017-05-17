@@ -1,3 +1,8 @@
+/*
+macOS Sierra 10.12.4
+x86_64-apple-darwin 16.5.0
+gcc 4.2.1
+*/
 #include<stdio.h>
 #include<limits.h>
 #include<float.h>
