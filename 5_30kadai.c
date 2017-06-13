@@ -6,7 +6,7 @@ double Pythagorean(int a,int b){
 	return sqrt(pow(a,2)+pow(b,2));
 }
 
-int main(void){
+int main(int argc char **argv){
 	srandom( (unsigned)time(NULL) );
 	double pi;
 	double totalPi=0;
