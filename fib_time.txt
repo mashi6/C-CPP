@@ -1,0 +1,42 @@
+10000回:
+再帰関数の場合
+
+real    0m0.004s
+user    0m0.001s
+sys     0m0.001s
+
+for文の場合
+
+real    0m0.004s
+user    0m0.001s
+sys     0m0.001s
+
+100000回:
+再帰関数の場合
+
+real    0m0.006s
+user    0m0.002s
+sys     0m0.002s
+
+for文の場合
+
+real    0m0.006s
+user    0m0.001s
+sys     0m0.001s
+
+1000000回:
+再帰関数の場合
+Segmentation fault: 11
+
+real    0m0.188s(変動する)
+user    0m0.003s
+sys     0m0.006s
+
+for文の場合
+
+real    0m0.009s
+user    0m0.005s
+sys     0m0.001s
+
+結論
+for文(再帰を使わない)方がはやい。
