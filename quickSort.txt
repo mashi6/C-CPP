@@ -1,0 +1,7 @@
+
+長さ10,000の配列を昇順ソートした時の処理時間。
+
+
+BubbleSort    : 1.064274sec
+SelectionSort : 0.138291sec
+QuickSort     : 0.001528sec
