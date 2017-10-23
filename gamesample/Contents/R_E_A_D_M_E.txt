@@ -1,9 +1,0 @@
-game.c内でsystem関数を使用しています。
-できる限り危険でないコードにしたつもりですが、万が一の事がありますので実行は自己責任でお願いします。
-なお、使用しているものは以下３つです。
-・system("clear");
-・system("stty echo -icanon min 1 time 0");
-・system("mpv FILENAME.mp4");
-
-ゴール ゲームオーバーの際、goal.mp4 die.mp4が再生されます。
-再生にはmpvを使用しているため、mpvがお使いのコンピュータにインストールされている必要があります。
