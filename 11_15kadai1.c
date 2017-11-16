@@ -50,9 +50,9 @@ void Display(void){
 		nextY = sin(radian)*length + previousY;
 			//座標計算
 			//直前の座標 + 今向いてる角度[radian]に一辺の長さ[length]分進む
-			//			  x : cos(角度[radian]) * 一辺の長さ[length]
-			//			  y : sin(角度[radian]) * 一辺の長さ[length]
-			// 			  {cos(radian)*length}^2 + {sin(radian)*length}^2 == length^2
+			//            x : cos(角度[radian]) * 一辺の長さ[length]
+			//            y : sin(角度[radian]) * 一辺の長さ[length]
+			//            {cos(radian)*length}^2 + {sin(radian)*length}^2 == length^2
 		
 		glVertex2d(previousX,previousY);
 		glVertex2d(nextX,nextY);
